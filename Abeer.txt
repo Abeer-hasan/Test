@@ -1,0 +1,7 @@
+Sub CATMain()
+dim test as intger 
+test= 5
+
+msgbox test
+
+end sub
