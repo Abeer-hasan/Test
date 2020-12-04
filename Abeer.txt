@@ -1,7 +1,10 @@
 Sub CATMain()
-dim test as intger 
+Dim test as Intger 
 test= 5
 
-msgbox test
+MsgBox test
 
-end sub
+MsgBox "Trying Git"
+
+End Sub
+
